@@ -1,11 +1,11 @@
 {
-  "name": "team-project_best-team",
+  "name": "ICE-CREAM",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://laytlat.github.io/team-project_best-team",
+  "homepage": "https://NataliiaDyrkach/ICE-CREAM",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project_best-team/"
+    "build": "parcel build src/*.html --public-url /ICE-CREAM/"
   },
   "repository": {
     "type": "git",
